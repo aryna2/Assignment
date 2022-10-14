@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i = 12;
+    int i = 1;
     do{
         printf("%d ",i);
         i++;

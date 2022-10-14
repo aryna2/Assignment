@@ -3,7 +3,7 @@
 int main()
 {
     int i, fact = 1;
-    for (i = 1; i <= 8; i++)
+    for (i = 1; i <= 5; i++)
     {
         
         fact *= i;    //   24*5
